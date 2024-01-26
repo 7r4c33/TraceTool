@@ -4,4 +4,4 @@
 - Discord Webhook Sender 🏒 (WebHooker Prerelese by majnek)
 ## 👑 Premium/Paid Version?
 Nope! But You Can Donate If You Want to Support the project 🌌
-Donations💸: https://tipply.pl/@tracetool
+Donations💸: (closed)
